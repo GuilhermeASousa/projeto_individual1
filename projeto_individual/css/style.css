@@ -1,0 +1,44 @@
+body{
+    background-color: lightslategray;
+}
+
+.container{
+    width: 95%;
+    margin-left: 2.5%;
+}
+
+.nome{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    padding-left: 0.5%;
+    font-size: 42px;
+    width: 49%;
+    float: left;
+    background-color: blue;
+    
+}
+
+.mainav{
+    width: 50.5%;
+    float: right;
+    background-color: red;
+}
+
+.mainav li{
+    display: inline;
+    padding: 9%;
+    padding-right: 2%;
+    margin-left: -7%;
+}
+
+.mainav li a{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.mainleft{
+    background-color: yellow;
+    width: 30%;
+}
